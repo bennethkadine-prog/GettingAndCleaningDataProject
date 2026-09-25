@@ -1,8 +1,17 @@
-# GettingAndCleaningDataProject
-Coursera Getting and Cleaning Data Course Project
+# A Complete R Workflow for Cleaning and Summarizing the UCI Human Activity Recognition Dataset
+
 This repository contains the work completed for the Coursera Getting and Cleaning Data course project. The purpose of the project is to demonstrate the ability to collect, clean, and prepare data for later analysis using R.
 
 The dataset used is the UCI Human Activity Recognition (HAR) Dataset, which includes accelerometer and gyroscope measurements collected from Samsung Galaxy S smartphones worn by 30 participants performing six different activities.
+
+The goal of this project is to implement a full data‑cleaning pipeline in R that:
+- Merges the training and test datasets.
+- Extracts only the measurements on the mean and standard deviation
+- Applies descriptive activity names
+- Labels all variables with clear, human‑readable names
+- Creates an independent tidy dataset containing the average of each variable for each activity and each subject
+
+The final output is a clean, well‑structured dataset that follows the principles of tidy data
 
 ## Repository Contents
 | File | Description |
