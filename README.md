@@ -26,8 +26,8 @@ The script run_analysis.R performs the following steps:
 2. Place the folder in your R working directory
 3. Run the script
 
-   #### /b Notes /b
-   - The script uses /b dplyr /b for data manipulation
+   #### __Notes__
+   - The script uses __dplyr__ for data manipulation
    - The final dataset follows tidy data principles:
      - Each variable is a column
      - Each observation is a row
